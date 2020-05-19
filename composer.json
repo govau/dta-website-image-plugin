@@ -1,10 +1,10 @@
 {
-  "name": "kirihoy/Drupal-8-Enhanced-Image",
+  "name": "govau/dta-website-image-plugin",
   "type": "drupal-custom-module",
   "description": "Integrates the CKEditor \"Enhanced Image\" plugin.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://github.com/KiriHoy/Drupal-8-Enhanced-Image",
+  "homepage": "https://github.com/govau/dta-website-image-plugin",
   "minimum-stability": "dev",
   "authors": [
     {

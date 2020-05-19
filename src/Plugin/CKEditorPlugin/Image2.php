@@ -6,7 +6,7 @@ use Drupal\ckeditor\CKEditorPluginBase;
 use Drupal\editor\Entity\Editor;
 
 /**
- * Defines the "Table Tools Toolbar" plugin.
+ * Defines the "Enhanced Image" plugin.
  *
  * @CKEditorPlugin(
  *   id = "image2",
@@ -50,7 +50,7 @@ class image2 extends CKEditorPluginBase {
   }
 
   /**
-   * Return ckeditor tabletoolstoolbar plugin path relative to drupal root.
+   * Return ckeditor image2 'Enhanced Image' plugin path relative to drupal root.
    *
    * @return string
    *   Relative path to the ckeditor plugin folder
