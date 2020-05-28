@@ -1,5 +1,5 @@
 name: CKEditor Enhanced Image Drupal 8 Plugin
-description: Integrates the CKEditor "Enhanced Image" plugin.
+description: Integrates the CKEditor "Enhanced Image" plugin with the CKEditor.
 package: CKEditor
 type: module
 core: 8.x
